@@ -9,7 +9,7 @@ public class Account{
 		return accountNumber;
 	}
 	
-	public double setAccountBalance(long accountBalance){
+	public double setAccountBalance(double accountBalance){
 		this.accountBalance=accountBalance;
 	}
 	public double getAccountBalance(){
